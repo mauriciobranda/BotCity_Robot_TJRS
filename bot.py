@@ -7,7 +7,7 @@ def main():
     bot.headless = False
     bot.driver_path = ChromeDriverManager().install()
     
-    url = "https://consulta.tjrs.jus.br/consulta-processual/partes/processos-por-nome?parteSelecionadaNome=BALDASAR%20PEDRO%20ODIA&comarca=&tipoPesquisa=F&movimentados=0&parteSelecionadaCodParte1g=11580675230128598926398550751&parteSelecionadaCpfCnpj=543.1**.***-**&parteSelecionadaFrom=eproc"
+    url = "here" 
     
     bot.browse(url)
     
