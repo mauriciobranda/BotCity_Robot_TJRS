@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Env files
+.env
+
+# WebDriver cache
+.wdm/
+
+# Outputs locais
+*.csv
+*.json
+outputs/
