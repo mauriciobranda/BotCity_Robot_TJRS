@@ -17,7 +17,11 @@ __pycache__/
 # WebDriver cache
 .wdm/
 
-# Outputs locais
-*.csv
-*.json
-outputs/
+# Outputs (resultado, não entrada)
+processos_resultado.csv
+
+#consultas
+consultas.csv
+
+#build
+tjrs_processos.zip
